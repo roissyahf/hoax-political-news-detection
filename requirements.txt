@@ -1,5 +1,5 @@
-streamlit
-pickle
-sklearn
-emoji
-re
+streamlit==1.28.2
+pickle==1.0.2
+sklearn==1.3.2
+emoji==2.8.0
+re==2023.10.3
