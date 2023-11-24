@@ -1,6 +1,6 @@
 streamlit
-pickle
-sklearn
+pickle-mixin
+scikit-learn
 tensorflow
 emoji
-re
+regex
