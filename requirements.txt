@@ -1,0 +1,5 @@
+streamlit
+pickle
+sklearn
+emoji
+re
